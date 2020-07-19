@@ -10,6 +10,8 @@ var checkout = true; // A BOOLEAN DATATYPE
 
 var box; // UNDEFINED VARIABLE
 
+var box2 = null; //No value var
+
 console.log(life);
 console.log(name);
 console.log(checkout);
