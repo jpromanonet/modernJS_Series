@@ -8,6 +8,8 @@ var name = "Jpromanonet"; // This is an STRING DATATYPE
 
 var checkout = true; // A BOOLEAN DATATYPE
 
+var box; // UNDEFINED VARIABLE
+
 console.log(life);
 console.log(name);
 console.log(checkout);
